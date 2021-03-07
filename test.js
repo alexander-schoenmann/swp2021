@@ -1,3 +1,7 @@
+function f(){
+
+}
+
 function test(){
 
 }
