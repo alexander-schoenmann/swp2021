@@ -7,5 +7,5 @@ function test(){
 }
 
 function susi(){
-    console.log("asdflakjsdflkj");
+    console.log("Alex wins!!");
 }
